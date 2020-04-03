@@ -1,4 +1,4 @@
-package lv.rbs.ds.lab03
+/*package lv.rbs.ds.lab03
 
 import org.scalatest._
 import net.liftweb.json._
@@ -124,3 +124,4 @@ class NAIVEmatcherTest extends FlatSpec with Matchers {
   }
 
 }
+ */

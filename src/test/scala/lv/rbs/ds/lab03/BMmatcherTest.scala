@@ -1,4 +1,4 @@
-package lv.rbs.ds.lab03
+/*package lv.rbs.ds.lab03
 
 import net.liftweb.json._
 import org.scalatest._
@@ -106,3 +106,4 @@ class BMmatcherTest extends FlatSpec with Matchers {
 
 
 }
+*/

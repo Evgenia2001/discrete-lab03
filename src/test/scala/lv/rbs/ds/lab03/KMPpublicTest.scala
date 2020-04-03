@@ -1,4 +1,4 @@
-package lv.rbs.ds.lab03
+/*package lv.rbs.ds.lab03
 
 import org.scalatest._
 
@@ -15,3 +15,4 @@ class KMPpublicTest  extends FunSuite {
 
 
 }
+*/
